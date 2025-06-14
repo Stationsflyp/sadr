@@ -71,7 +71,7 @@ export default function LoginPage() {
             <div className="text-center text-sm text-gray-400">
               <p>🔒 Autenticación segura con Discord OAuth2</p>
               <p className="mt-1">Solo necesitas una cuenta de Discord válida</p>
-              <p className="mt-2 text-sky-400">Powered by Vercel</p>
+              <p className="mt-2 text-sky-400">Powered by OxcyShop</p>
             </div>
           </CardContent>
         </Card>
